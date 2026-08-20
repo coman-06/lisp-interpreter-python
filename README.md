@@ -1,6 +1,6 @@
 # Lisp Interpreter in Python
 
-A small interpreter for a Lisp dialect, written in Python. Reads Lisp source, tokenises it, parses it into nested expressions, and evaluates them.
+Reads Lisp source, tokenises it, parses it into nested expressions, and evaluates them.
 
 ## What it supports
 
